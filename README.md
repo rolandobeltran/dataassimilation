@@ -8,3 +8,5 @@ At this point you have two imperfect estimation of a variable value. The first m
 
 Data assimilation is the problem of combining two sources of information to produce an optimal estimation of a variable's value.  
 In the most common setup, we have, on the one hand, a math model and, on the other, a sensor.
+
+The majority of code on Data Assimilation is available in Matlab and Fortran, so I want to contribute to the transition to the Python world with this code repository.
